@@ -12,6 +12,6 @@ features:
 - title: Feature-Packed
   details: Comes with a wealth of bitcoin related apps; Block explorer, Lightning node, Electrum Rust Server, Mempool explorer, and more!
 - title: Cheap
-  details: Install myNode for free if you have the hardware, or purchase the community edition for $100! You can also order a full-fledged hardware + software device, ready to go.
+  details: Install myNode for free if you have the hardware, or purchase the premium edition for just $100! You can also order a full-fledged hardware + software device, ready to go.
 footer: MIT Licensed | Copyright © myNode Developers
 --- 
