@@ -40,7 +40,7 @@ module.exports = {
         children: [
           "/bitcoin/overview",
           "/bitcoin/bitcoin-status",
-          ["/bitcoin/independent-sync", 'Independently Sync Blockchain'],
+          "/bitcoin/blockchain-download",
           "/bitcoin/explorer",
           "/bitcoin/mempool"
         ]
